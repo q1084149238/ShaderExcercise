@@ -1,0 +1,194 @@
+Using pre-set license
+Built from '2020.2/china_unity/release' branch; Version is '2020.2.1f1c1 (252d8215dd99) revision 2436482'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'zh' Physical Memory: 8078 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity工程/unitychan-crs-master/unitychan-crs-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+3976
+Successfully changed project path to: D:/Unity工程/unitychan-crs-master/unitychan-crs-master
+D:/Unity工程/unitychan-crs-master/unitychan-crs-master
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 48.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1c1 (252d8215dd99)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity工程/unitychan-crs-master/unitychan-crs-master/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     1977 MB
+    Driver:   26.21.14.3648
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56252
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001737 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 50.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001479 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1583 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.6 MB.
+System memory in use after: 83.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2016.
+Total: 2.394000 ms (FindLiveObjects: 0.361500 ms CreateObjectMapping: 0.104000 ms MarkObjects: 1.807500 ms  DeleteObjects: 0.119400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/UnityChanStage/Textures/bg.psd
+  artifactKey: Guid(d5cbcb22616b0402db13890f6ca03a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChanStage/Textures/bg.psd using Guid(d5cbcb22616b0402db13890f6ca03a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ebaa988bf02901b56ca90f020d6aa7') in 0.356177 seconds
+  Import took 0.360027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/UnityChan/CandyRockStar/Textures/body_00_NRM.tga
+  artifactKey: Guid(1dacb5bf74b550f47b21920a95573a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/CandyRockStar/Textures/body_00_NRM.tga using Guid(1dacb5bf74b550f47b21920a95573a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206eac5d2d0af8c621f75c69359dada2') in 0.050986 seconds
+  Import took 0.094342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/UnityChan/CandyRockStar/Textures/body_00.tga
+  artifactKey: Guid(b928cea14fa344e4c959718c5697271a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/CandyRockStar/Textures/body_00.tga using Guid(b928cea14fa344e4c959718c5697271a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd34e5e1499ef13fa4ac077f2e6de99c6') in 0.007707 seconds
+  Import took 0.056474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/UnityChan/CandyRockStar/Textures/body_01.tga
+  artifactKey: Guid(08d979c653fa45d4fba8b3e46b62a6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/CandyRockStar/Textures/body_01.tga using Guid(08d979c653fa45d4fba8b3e46b62a6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd490d6031b5a0ed5ff8dfdd1c1daee0') in 0.043551 seconds
+  Import took 0.065366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/UnityChan/CandyRockStar/Textures/body_01_NRM.tga
+  artifactKey: Guid(fadf1d2b9ea1cca4481eb2889bbd756f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/CandyRockStar/Textures/body_01_NRM.tga using Guid(fadf1d2b9ea1cca4481eb2889bbd756f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f16a2c61042d3f3c43cb106d89a44e66') in 0.016495 seconds
+  Import took 0.078668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/UnityChan/CandyRockStar/Textures/body_00_SPEC.tga
+  artifactKey: Guid(e3d8b348e8a142541a6a9993a84e70e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/CandyRockStar/Textures/body_00_SPEC.tga using Guid(e3d8b348e8a142541a6a9993a84e70e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ccebf7651dc27edf85cd6eddc87913') in 0.010143 seconds
+  Import took 0.041668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/UnityChan/CandyRockStar/Textures/body_01_SPEC.tga
+  artifactKey: Guid(b8aa78523435b4641a484f343fe962bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/CandyRockStar/Textures/body_01_SPEC.tga using Guid(b8aa78523435b4641a484f343fe962bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99c29df21956d449f0e7b312093f61e') in 0.009489 seconds
+  Import took 0.026003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/UnityChanStage/Effects/Back Screen/Back Screen.renderTexture
+  artifactKey: Guid(1e795c9a469ad4507954b5431961f7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChanStage/Effects/Back Screen/Back Screen.renderTexture using Guid(1e795c9a469ad4507954b5431961f7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db125acde534fcc0e1fb21cf6295814') in 0.144749 seconds
+  Import took 0.149546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.648746 seconds.
+  path: Assets/UnityChan/CandyRockStar/Textures/cheek_00.tga
+  artifactKey: Guid(8c51e3e057c0bf14ca7f32d12b2fbaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/CandyRockStar/Textures/cheek_00.tga using Guid(8c51e3e057c0bf14ca7f32d12b2fbaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f37616c40a1a9745b6846a0e187c24c') in 0.022469 seconds
+  Import took 0.060987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/UnityChanStage/Textures/EQfloor.psd
+  artifactKey: Guid(ac31a65b3fef9446297e80e94aa4e109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChanStage/Textures/EQfloor.psd using Guid(ac31a65b3fef9446297e80e94aa4e109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063a68d6ceffe8c2d65da5fa3b497329') in 0.233052 seconds
+  Import took 0.255724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/UnityChan/CandyRockStar/Textures/ENV2.tga
+  artifactKey: Guid(f5756445624fc214080df80383cef281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityChan/CandyRockStar/Textures/ENV2.tga using Guid(f5756445624fc214080df80383cef281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '284170fc01ad851998cb62f2786ad064') in 0.019582 seconds
+  Import took 0.024117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/PostProcessing/Utilities/CustomMotionTexture/Textures/DebugMotionVectors.png
+  artifactKey: Guid(3aac3087967ea4fae858ec0494fd24d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PostProcessing/Utilities/CustomMotionTexture/Textures/DebugMotionVectors.png using Guid(3aac3087967ea4fae858ec0494fd24d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dfb407e3cf150b81a25b08c88b291c7') in 0.337923 seconds
+  Import took 0.349295 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001257 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1533 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.2 MB.
+System memory in use after: 83.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2023.
+Total: 2.291500 ms (FindLiveObjects: 0.348100 ms CreateObjectMapping: 0.077400 ms MarkObjects: 1.838600 ms  DeleteObjects: 0.025600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
